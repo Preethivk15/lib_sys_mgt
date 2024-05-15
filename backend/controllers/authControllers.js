@@ -13,6 +13,8 @@ import {
 import bcrypt from "bcrypt";
 import { ROOT_PATH } from "../server.js";
 
+const data = 0;
+
 class AuthController {
   async login(req, res, next) {
     const { email, password } = req.body;
