@@ -39,14 +39,14 @@ const Header = () => {
           <BiPhoneCall />
           <span>030339845224</span>
           <AiOutlineMail />
-          <span>ggclib@gmail.com</span>
+          <span>vjtilib@gmail.com</span>
         </div>
       </div>
 
       <nav className="bg__accent">
         <div className="logo text__primary">
           <GiBookAura className="logo__icon" />
-          <span>GGC Library</span>
+          <span>VJTI Library</span>
         </div>
         <div className="center">
           <NavLink to="/" className="text__color ">
